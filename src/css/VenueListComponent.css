@@ -1,0 +1,19 @@
+.wbdv-venue-searchbar {
+}
+
+.wbdv-venue-row {
+    padding: 0 1em;
+}
+
+.wbdv-venue-thumbnail {
+    height: 40px;
+}
+
+.wbdv-venue-info {
+    padding-left: 1em;
+}
+
+.wbdv-venue-title {
+    font-weight: bold;
+    cursor: pointer;
+}
